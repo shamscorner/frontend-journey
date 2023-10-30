@@ -9,6 +9,7 @@ Let’s get started 🚀. After end of this week, you should be able to:
 - Understand the different aspects of the internet.
 - Get familiar with websites and web browsers.
 - Collect technical terms related to web development.
+- Overall Internet 101
 
 # Day - 1
 
